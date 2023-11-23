@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">newapp</string>
+    <string name="values_ru">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="sign_in">Вход</string>
+    <string name="Password" />
+    <string name="Login" />
+    <string name="name">Имя</string>
+    <string name="last_name">Фамилия</string>
+    <string name="go">Перейти</string>
+    <string name="welcome">Добро пожаловать!</string>
+</resources>
